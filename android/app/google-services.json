@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993598029287",
+    "project_id": "spiice-creativity",
+    "storage_bucket": "spiice-creativity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993598029287:android:aaac5b4c8efaa7b1171142",
+        "android_client_info": {
+          "package_name": "com.example.spiice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993598029287-74r9c8iqbbpb3nh14am0iej9s80djcdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spiice_app",
+            "certificate_hash": "a0b9357e826b572df2eece107747d3d7e37568ed"
+          }
+        },
+        {
+          "client_id": "993598029287-p1bumkt7hi43sda1v87c32r5t07ts9hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbBKicofgvMbkgDXf-asfnY8gWmpmt7B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993598029287-p1bumkt7hi43sda1v87c32r5t07ts9hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
